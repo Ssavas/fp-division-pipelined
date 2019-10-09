@@ -13,7 +13,7 @@ Conversion of coefficients into binary (coeffcients are smaller than 1):
 decimal 0.25 = binary 0.010
 decimal 0.625 = binary 0.101 (integer part and fraction part are converted seperately)
 
-Implementation details, results and discussions can be find in the following article:
+Implementation details, results and discussions can be found in the following article:
 
 "Efficient Single-Precision Floating-Point Division Using Harmonized Parabolic Synthesis"
 https://ieeexplore.ieee.org/abstract/document/7987504/
