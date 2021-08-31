@@ -27,4 +27,4 @@ To run the tests and generate harness: sbt "run --backend c --compile --test --g
 
 Generating verilog: sbt "run --backend v --genHarness"
 
-Details: https://chisel.eecs.berkeley.edu/2.2.0/getting-started.html
+More info on Chisel: https://www.chisel-lang.org/
